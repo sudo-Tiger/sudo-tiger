@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RetaxoYT</h1>
+<h1 align="center">Hi 👋, I'm Retaxo</h1>
 <h3 align="center">A novice Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-tiger&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-tiger" /> </p>
