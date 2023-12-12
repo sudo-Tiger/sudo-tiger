@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-tiger&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-tiger" /> </p>
 
-- 📫 How to reach me **admin@retaxo.net**
+- 📫 How to reach me **contact@retaxo.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
