@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-tiger&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-tiger" /> </p>
 
-- 🌱 I’m currently learning **Java, C#, docker**
-
 - 📫 How to reach me **admin@retaxo.net**
 
 <h3 align="left">Connect with me:</h3>
